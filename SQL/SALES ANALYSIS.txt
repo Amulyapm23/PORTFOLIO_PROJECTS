@@ -1,0 +1,15 @@
+SALES ANALYSIS
+
+In this comprehensive sales analysis project, we delve into a dataset containing crucial information about customers, products, transactions, and markets. The project focuses on extracting valuable insights and trends from the data to guide informed business decisions.
+
+For our analysis, we are utilising SQL to respond to the following questions from our stakeholders: 
+--List the names and kinds of every customer. 
+--Get the classifications of all the product codes. 
+--Determine the overall sales volume and sales for each product category. 
+--Count the number of transactions and the total sales for each year. 
+--Calculate the average sales volume and sales volume by customer type. 
+--Find the names and categories of each customer, as well as the total number of sales and the amount of sales for each. 
+--Obtain the brand names, volume of sales, and dollar amount of each transaction's sales. 
+--List all transactions together with the product, market, and client names. 
+--Determine the total sales for each month over the course of a given year. 
+--The year with the highest total sales amount.
