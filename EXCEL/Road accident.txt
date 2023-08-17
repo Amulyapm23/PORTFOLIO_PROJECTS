@@ -1,0 +1,21 @@
+Road accident
+The goal of the Road Accident Analysis project is to use Microsoft Excel to examine data regarding road accidents. The purpose of this research is to obtain understanding of the various elements that contribute to the causes of traffic accidents. We can find patterns, trends, and potential areas for improvement in road safety measures by studying the data.
+
+Steps Included:
+1.Gathering the client's requirements 
+2.Identifying the project's stakeholders.
+3.Data cleanup in accordance with requirements
+4.Adding some bespoke columns to the data during data processing
+5.Data Analysis Using Excel Functions and Pivot Tables
+6.Using data visualisation, make charts and personalised sheets to display the insights.
+7.Creating reports or dashboards
+
+Requirements:
+*total casualties taken place
+*Total casualties and percentage of total with respect to *accident severity and maximum casualties by type of vehicle
+*Total casualties with respect to vehicle type
+*Monthly trend showing comparison of casualties for the current year and previous year
+*Maximum casualties by road type
+*cases by location and light condition
+*distribution of total contaminants by road surface
+*relation between cases by area
