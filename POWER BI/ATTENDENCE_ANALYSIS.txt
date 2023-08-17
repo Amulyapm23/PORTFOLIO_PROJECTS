@@ -1,0 +1,18 @@
+ATTENDENCE_ANALYSIS
+This deep-dive analysis through Power BI into the attendance records spanning April, May, and June offers a holistic understanding of attendance dynamics. The amalgamation of disparate datasets into a coherent narrative serves as a testament to the power of data synthesis and visualization. The insights gleaned not only illuminate the trends within the observed timeframe but also pave the way for informed decision-making, enabling organizations to navigate the delicate balance between traditional attendance norms and the evolving landscape of remote work arrangements.
+
+Major requirements were:
+1.Sick leave percentage
+2.Preference of work 
+
+
+After analysis, I was able to find out:
+*Total working days: 4369
+*Present days: 4012
+*Present percentage: 91.83%
+*Sick leave percentage: 1.20%
+*Thursday and Friday are the days when remote work is most prevalent. 
+*Despite greater presence rates on Monday and Tuesday, sick leave is surprisingly higher on those days.
+*Increase in home-based work from 0.00% to 2.84%.
+*From 9.59% to 16.31% more people took sick days.
+*The percentage of those present dropped from 93.59% to 90.38%.
